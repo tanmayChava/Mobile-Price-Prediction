@@ -6,7 +6,7 @@ This project uses a dataset containing features of various mobile phones (e.g., 
 
 🚀 Project Objectives
 Preprocess textual and numerical features (e.g., convert "128 GB" to integer, extract megapixels).
-Train a regression model to predict price in USD.
+Train a regression model to predict price in USD. 
 Visualize key trends and feature importance.
 
 🧠 Machine Learning Approach
